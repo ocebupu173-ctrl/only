@@ -1,4 +1,4 @@
-const CACHE_NAME = 'only-us-shell-v2'
+const CACHE_NAME = 'only-us-shell-v3'
 const SHELL_URL = new URL('/', self.location.origin).href
 
 self.addEventListener('install', (event) => {
